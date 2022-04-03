@@ -1,5 +1,5 @@
 ## Delani-Studio
-## by Abdinasir
+## by Abdinasir Adan
 ### Table of Content
 
 + [Description](#description)
@@ -15,7 +15,7 @@
 
 ## Design
 
-* 
+*
 
 ## Installation
 
