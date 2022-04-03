@@ -11,7 +11,7 @@
 + [Authors Info](#author-Info)
 
 ## Description
-<p>This is a project of Delani studio homepage.</p>
+<p>This is a project of Delani-studio homepage.</p>
 
 ## Design
 
