@@ -1,10 +1,12 @@
 #home {
-    background-image: url("./images/backgrounds/h_img.jpg");
+    background-image: url("./images/assets/backgrounds/h_img.JPG");
     color: white;
     font-size: xx-large;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
+    min-height: 481px;
+    height: auto;
 }
 
 #para {
@@ -24,7 +26,7 @@
 }
 
 .services {
-    background-image: url("/backgrounds/s_image.jpg");
+    background-image: url("/images/assets/backgrounds/s_image.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
