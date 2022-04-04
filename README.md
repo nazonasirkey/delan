@@ -15,7 +15,8 @@
 
 ## Design
 
-*
+![ Delani Studio](https://user-images.githubusercontent.com/100407328/161486899-b7a225c6-77be-40d7-b5c7-6e3df0e21658.jpg)
+
 
 ## Installation
 
