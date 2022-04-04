@@ -1,5 +1,5 @@
 #home {
-    background-image: url("./images/backgrounds/h_img.jpg");
+    background-image: url("/images/backgrounds/abdi.jpg");
     color: white;
     font-size: xx-large;
     background-repeat: no-repeat;
@@ -26,7 +26,7 @@
 }
 
 .services {
-    background-image: url("/backgrounds/s_image.jpg");
+    background-image: url("images/backgrounds/s_image.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -51,7 +51,7 @@
     display: none;
 }
 .contact{
-    background-image: url("./images/assets/backgrounds/c_image.jpg"); background-repeat: no-repeat;
+    background-image: url("./images/backgrounds/c_image.jpg"); background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
     min-height: 480px;
