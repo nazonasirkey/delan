@@ -33,7 +33,8 @@
 
 ## LIVE LINK
 
-* 
+ [click live link] (https://nazonasirkey.github.io/delan/)
+
 ## Technology Used
 * HTML - which was used to build the structure of the pages.
 
